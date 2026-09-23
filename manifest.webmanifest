@@ -1,0 +1,20 @@
+{
+  "name": "衣橱灵感",
+  "short_name": "衣橱灵感",
+  "description": "记录衣橱、收藏穿搭灵感，并根据天气生成日常搭配。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f5f0",
+  "theme_color": "#292725",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
